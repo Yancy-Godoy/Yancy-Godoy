@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yancy-Godoy
 - 👀 I’m interested in cloud computing, automation and scripting.
 - 🌱 I’m currently learning CCNA and Python next up GCP...
+- 🖥️ I work as an Applications Analyst Support for Google Workspace
 
 
 <!--- - 💞️ I’m looking to collaborate on ...
