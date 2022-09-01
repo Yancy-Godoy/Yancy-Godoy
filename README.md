@@ -3,7 +3,7 @@
 - 🌱 After getting my Associate Cloud Engineer I am now after the Profesional Cloud Architect certification.
 - 🖥️ I work as Technical Quality Analyst for Google Workspace 
 
-<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" />
+<img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="500" height="600"/>
 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
