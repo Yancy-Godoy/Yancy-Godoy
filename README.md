@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yancy-Godoy
 - 👀 I’m interested in cloud computing, automation and scripting.
-- 🌱 I am a certified <a href="https://www.credential.net/7219c363-1593-46c9-b16c-62578e08b30a?key=69e7c8ac9c6082d1d37df901500b641462d3b38d12506fc73bf3dc086b0dc8e3">Associate Cloud Engineer</a> and I am now after the Profesional Cloud Architect certification.
-- 🖥️ I work as Technical Quality Analyst at Telus for Google Workspace 
+- 🌱 I am a certified <a href="https://google.accredible.com/31ba5089-9eac-4b18-bf79-9c87c0a7f0d8?key=98af13053aed60b05f613092690db29d534c5da66062790dbf1be3a50beece55">Professional Cloud Architect</a> and I am now after the Profesional Cloud Security Engineer certification.
+- 🖥️ I work as Cloud Engineer
 
 <img src="https://templates.images.credential.net/16590187933301617801540872729153.png" width="200" height="200"/>
 
