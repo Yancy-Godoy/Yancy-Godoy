@@ -3,7 +3,7 @@
 - 🌱 I am a certified <a href="https://google.accredible.com/31ba5089-9eac-4b18-bf79-9c87c0a7f0d8?key=98af13053aed60b05f613092690db29d534c5da66062790dbf1be3a50beece55">Professional Cloud Architect</a> and I am now after the Profesional Cloud Security Engineer certification.
 - 🖥️ I work as Cloud Engineer
 
-<a href="https://www.buymeacoffee.com/yancygodoy">Buy me a beer🍺</a> 
+<a href="https://www.buymeacoffee.com/yancygodoy">Buy me a beer 🍺</a> 
 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
