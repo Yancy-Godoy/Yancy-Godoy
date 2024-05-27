@@ -6,6 +6,9 @@
 <a href="https://www.credly.com/badges/65ed2a6f-48d4-4adf-8e63-e03391f28faf/public_url" rel="nofollow">
   <img src="https://drive.google.com/uc?export=view&id=1FpiCs6QSCuLiAbgL7YTTSxKsibKE4K_2" alt="KCNA: Kubernetes and Cloud Native Associate" style="max-width: 900px; max-height: 800px;">
 </a>
+<a href="https://www.credly.com/badges/a9156ac9-d3f5-4d5b-a9ec-c1fa7e359d43/public_url" rel="nofollow">
+  <img src="https://drive.google.com/uc?export=view&id=1QR3czgrxFVt62-f7WZ35csI4IIYJkJRj" alt="PCA: Professional Cloud Architect" style="max-width: 900px; max-height: 800px;">
+</a>
 <a href="https://www.credly.com/badges/9e0b4b0e-5904-4b5e-b5b6-e36e2ca99b41/public_url" rel="nofollow">
   <img src="https://drive.google.com/uc?export=view&id=16Lf27XIF5z3zdYa2B3GliVBlzP9PVdCg" alt="PSCE: Professional Cloud Security Engineer" style="max-width: 900px; max-height: 800px;">
 </a>
